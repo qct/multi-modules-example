@@ -33,7 +33,7 @@
       <module name="qct-common" target="1.6" />
       <module name="qct-dao" target="1.7" />
       <module name="qct-service" target="1.6" />
-      <module name="qct-web" target="1.6" />
+      <module name="qct-web" target="1.7" />
       <module name="qct-webservice" target="1.7" />
     </bytecodeTargetLevel>
   </component>
