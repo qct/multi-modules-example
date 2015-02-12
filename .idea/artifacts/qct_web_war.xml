@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="qct-web:war">
+    <output-path>$PROJECT_DIR$/qct-web/target</output-path>
+    <root id="archive" name="qct-web.war">
+      <element id="artifact" artifact-name="qct-web:war exploded" />
+    </root>
+  </artifact>
+</component>
