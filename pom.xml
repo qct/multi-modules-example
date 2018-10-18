@@ -22,7 +22,7 @@
         <junit.version>4.11</junit.version>
         <log4j.version>1.2.17</log4j.version>
         <java.version>1.7</java.version>
-        <spring.version>4.0.6.RELEASE</spring.version>
+        <spring.version>4.3.20.RELEASE</spring.version>
         <cxf.version>3.0.1</cxf.version>
         <jackson.version>1.9.13</jackson.version>
         <hibernate.version>4.3.5.Final</hibernate.version>
