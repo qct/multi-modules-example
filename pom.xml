@@ -26,7 +26,7 @@
         <cxf.version>3.0.1</cxf.version>
         <jackson.version>1.9.13</jackson.version>
         <hibernate.version>4.3.5.Final</hibernate.version>
-        <mysql.connector.version>5.1.30</mysql.connector.version>
+        <mysql.connector.version>8.0.16</mysql.connector.version>
     </properties>
 
     <dependencyManagement>
